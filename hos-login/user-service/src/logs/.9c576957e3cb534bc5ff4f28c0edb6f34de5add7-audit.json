@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\MAVLAD\\Desktop\\hos-backend-dev\\microservices\\user-service\\src\\logs\\.9c576957e3cb534bc5ff4f28c0edb6f34de5add7-audit.json",
+    "files": [
+        {
+            "date": 1660722884775,
+            "name": "C:\\Users\\MAVLAD\\Desktop\\hos-backend-dev\\microservices\\user-service\\src\\logs\\application-2022-08-17.log",
+            "hash": "e83eef7b4706d6017e8ebc09612c0736"
+        }
+    ],
+    "hashType": "md5"
+}
